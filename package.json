@@ -1,0 +1,24 @@
+{
+  "name": "videojs-good-data",
+  "version": "1.0.0",
+  "description": "Snippet that run video on video js and records respective analytics using Good Data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitramteke/videojs-good-data.git"
+  },
+  "keywords": [
+    "videojs",
+    "good-data",
+    "analytics",
+    "html5-player"
+  ],
+  "author": "Sumit Ramteke",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sumitramteke/videojs-good-data/issues"
+  },
+  "homepage": "https://sumitramteke.github.io/videojs-good-data",
+  "dependencies": {
+    "video.js": "^5.10.7"
+  }
+}
